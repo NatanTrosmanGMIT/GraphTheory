@@ -21,13 +21,13 @@ Jupyter Notebook Installation :https://test-jupyter.readthedocs.io/en/rtd-theme/
 ### Contents.
 ***
 #### Heap Sort Notebook:
-• Explanation of the Heap Sort algorithm
-• Python function implementing Heap Sort.
-• Explanation of the computational complexity of Heap Sort.
-• Explanation of how graph theory is used in Heap Sort
+• Explanation of the Heap Sort algorithm.<br>
+• Python function implementing Heap Sort.<br>
+• Explanation of the computational complexity of Heap Sort.<br>
+• Explanation of how graph theory is used in Heap Sort.
 
 #### Graph Isomorphism Problem Notebook:
-• Explanation of the Graph Iomorphism Problem.
-• Explanation of how graphs can be represented in data structures.
-• Python function implementing an algorithm to determine if two graphs are isomorphic or not.
-• Discussion of the computational complexity of the Graph Isomorphism Problem.
+• Explanation of the Graph Iomorphism Problem.<br>
+• Explanation of how graphs can be represented in data structures.<br>
+• Python function implementing an algorithm to determine if two graphs are isomorphic or not.<br>
+• Discussion of the computational complexity of the Graph Isomorphism Problem.<br>
